@@ -1,5 +1,4 @@
-### Hi there 👋
+#Rumesh Siriwardhana
 
-Name : Siriwardhana S.M.R.R
-Student Registration Number : IT21388934
-GitHub UserName : IT21388934
+**I'm a passionate Full Stack Developer from Sri Lanka.**
+
