@@ -7,7 +7,7 @@
 
 - 👨‍🎓 Undergratuate. 
 
-- 🌱 I’m currently learning **New Tech & ML**
+- 🌱 I’m currently learning **New Tech , AI & ML**
 
 - 👯 I’m looking to collaborate on **New Projects**
 
