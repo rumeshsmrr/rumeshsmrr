@@ -1,8 +1,9 @@
 # 💫 About Me:
-👨‍💼 Full-Stack Software Engineer: Experienced with 2+ years in scalable web and mobile development.<br>👯AI/ML Enthusiasm<br>💡Leadership & Mentorship: Proven track record of supervising junior developers and delivering performance-optimized client projects (MERN, Next.js).<br>🧑‍🎓 Current Studies: Currently an undergraduate pursuing a BSc in Information Technology specialized in Software Engineering at Sri Lanka Institute of Information Technology (SLIIT), expected to graduate in December 2025.
-
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="cording" width="400px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumeshsmrr&label=Profile%20views&color=0e75b6&style=flat" alt="rumeshsmrr" /> </p>
+👨‍💼 Full-Stack Software Engineer: Experienced with 2+ years in scalable web and mobile development.<br>👯AI/ML Enthusiasm<br>💡Leadership & Mentorship: Proven track record of supervising junior developers and delivering performance-optimized client projects (MERN, Next.js).<br>🧑‍🎓 Current Studies: Currently an undergraduate pursuing a BSc in Information Technology specialized in Software Engineering at Sri Lanka Institute of Information Technology (SLIIT), expected to graduate in December 2025.
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rumeshsiriwardhana/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siriwardhanarumesh@gmail.com) 
